@@ -1,0 +1,116 @@
+canonical_identifier: bkk:krp/KR3eu074/v1
+canonical_location: https://kanripo.org/bkk/KR3eu074/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 鹿茸之研究
+  identifiers:
+    krp: KR3eu074
+  tags:
+    kr-categories: KR3eu
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu074.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eu074_000.yaml, hash: 'sha256:ae930c849bc3e98d0804a480971ef922950ec3377d2b862c7396dbce57bded08'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eu074_000.markers.yaml, hash: 'sha256:2505fb3a3d205dbec313dd316d7f4320cd63a133ed176d30253de7b5888d2c8b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eu074_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 205
+  label: 一緒言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu074_jc_000-d3.h1s1
+    span:
+    - body
+    - 205
+    - 1402
+  label: 二鹿茸之定義
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu074_jc_000-d4.h1s1
+    span:
+    - body
+    - 1402
+    - 3489
+  label: 三鹿茸之應用
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu074_jc_000-d4d2
+    span:
+    - body
+    - 1408
+    - 2349
+  label: 一唐以前
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu074_jc_000-d4d3
+    span:
+    - body
+    - 2349
+    - 2859
+  label: 二唐時代
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu074_jc_000-d4d4
+    span:
+    - body
+    - 2859
+    - 3489
+  label: 三宋及其以降
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu074_jc_000-d5.h1s1
+    span:
+    - body
+    - 3489
+    - 5641
+  label: 四鹿茸之藥理
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu074_jc_000-d6.h1s1
+    span:
+    - body
+    - 5641
+    - 6392
+  label: 五鹿茸之調製法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu074_jc_000-d7.h1s1
+    span:
+    - body
+    - 6392
+    - 6971
+  label: 六總括
+  type: section
+  level: 1
+hash: sha256:f889349feb84389842b2c8895c6fdbd1cea6233247dee3ba4eb094cee5a41286
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
